@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Judith 👋 :woman_technologist:
+
+- 💻 Software Engineer.
+- 🎯 Based in Barcelona, Spain.
+- 👯 I’m looking to collaborate or working on PHP projects with Symfony 
+- 🌱 I’m currently learning  and improving my Backend & Frontend skills.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/judithvilela/) · [Email](mailto:judith.vilela@gmail.com)
 
 <!--
 **judithva/judithva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
